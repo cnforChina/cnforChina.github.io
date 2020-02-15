@@ -1,4 +1,4 @@
-Hello, welcom to ning's blog!
+Hello, welcom to Nim blog!
 
 欢迎
 
